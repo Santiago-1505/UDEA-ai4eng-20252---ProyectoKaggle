@@ -1,1 +1,7 @@
-# UDEA-ai4eng-20252---ProyectoKaggle
+# Integrantes del equipo - Primera Entrega
+
+Jenny Andrea Orozco Osorio - CC: 43918288 - Ingeniería de Sistemas
+
+Xiomara Giraldo Perez - CC:1023724297  - Ingeniería de Sistemas
+
+Santiago Villegas Naranjo- CC:1001479227  - Ingeniería de Sistemas
