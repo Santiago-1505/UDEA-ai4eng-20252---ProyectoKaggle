@@ -1,4 +1,4 @@
-# Integrantes del equipo - Primera Entrega
+# Integrantes del equipo
 
 Jenny Andrea Orozco Osorio - CC: 43918288 - Ingeniería de Sistemas
 
